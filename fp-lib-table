@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Logo")(type "KiCad")(uri "/home/andrey/Downloads/Radio_SI4735-main")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "/home/andrey/Documents/ControlBoard/ControlBoard/Library.pretty")(options "")(descr ""))
+  (lib (name "TDA1517P")(type "KiCad")(uri "${KIPRJMOD}/TDA1517")(options "")(descr ""))
+  (lib (name "TCA9517DR")(type "KiCad")(uri "${KIPRJMOD}/TCA9517DR")(options "")(descr ""))
+)
